@@ -21,6 +21,9 @@
       - node
       - python3
       - wget
+      - php
+      - mysql
+      - postgresql@12
 
 # Installs latest GUI applications for MacOS.
 - name: Install GUI applications using Homebrew Casks for MacOS
